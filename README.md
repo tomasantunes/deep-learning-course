@@ -609,7 +609,7 @@ RNNs are a better model to deal with sequences.
 
 Sequances contain sequantial information (temporal autocorrelation structure) that can be leveraged to predict the future or categorize the past.
 
-# LSTM and GRU
+## LSTM and GRU
 
 LSTM stands for Long Short Term Memory.
 
